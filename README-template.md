@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/#7.png.jpg)
+![](./#7.png.jpg)
 
 ### Links
 
