@@ -6,8 +6,6 @@ body{
     background-color: hsl(30, 38%, 92%);
 }
 .container{
-    position:relative;
-    right:-400px;
     display: flex;
     flex-direction: row;
     justify-content: center;
